@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana",
+  "description": "A modern AI image generator and editor inspired by Google's Gemini, featuring character consistency and multi-image fusion.",
+  "requestFramePermissions": []
+}
